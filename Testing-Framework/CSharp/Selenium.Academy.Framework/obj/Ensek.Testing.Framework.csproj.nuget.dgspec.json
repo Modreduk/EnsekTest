@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\modre\\Documents\\Ensek\\Testing-Framework\\CSharp\\Selenium.Academy.Framework\\Ensek.Testing.Framework.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\modre\\Documents\\Ensek\\Testing-Framework\\CSharp\\Selenium.Academy.Framework\\Ensek.Testing.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\modre\\Documents\\Ensek\\Testing-Framework\\CSharp\\Selenium.Academy.Framework\\Ensek.Testing.Framework.csproj",
+        "projectName": "Ensek.Testing.Framework",
+        "projectPath": "C:\\Users\\modre\\Documents\\Ensek\\Testing-Framework\\CSharp\\Selenium.Academy.Framework\\Ensek.Testing.Framework.csproj",
+        "packagesPath": "C:\\Users\\modre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\modre\\Documents\\Ensek\\Testing-Framework\\CSharp\\Selenium.Academy.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\modre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.11.2, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.11.2, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
